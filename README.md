@@ -1,5 +1,4 @@
-SportsDatabaseManagementSystem
-DBMS project using MS SQL server, Microsoft Access, Visio, Vb.net 
+# SportsDatabaseManagementSystem
 With vast amounts of data in the world organizing becomes a challenge. One area that comes under this is sports statistics. As an avid fan of sport, it seemed fitting to do a project that incorporated technology with my interest. There is a sports organization which offers various services to players and people associated with it. The organization 
 provides scholarships to the players who are pursuing their studies for their future endeavors, which is the best part of the organization. Also, the organization has all the 
 basic information regarding an individual player, coaches and so on. But if we check, there is no management system that is used by the organization. So, then we took the step 
